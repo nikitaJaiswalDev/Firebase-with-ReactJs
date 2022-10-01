@@ -14,10 +14,10 @@ Deploy your React js Application with firebase
 1. firebase login
 2. firebase init
 This firebase init command will ask few questions.
--- (Which Firebase features do you want to set up for this directory), From the options, select the Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys
--- (What do you want to use as your public directory?) build
--- (Configure as a single-page app (rewrite all urls to /index.html)?) N
--- (Set up automatic builds and deploys with GitHub?) N
--- (File build/404.html already exists. Overwrite?) N
--- (File build/index.html already exists. Overwrite?) N
+a. (Which Firebase features do you want to set up for this directory), From the options, select the Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys
+b. (What do you want to use as your public directory?) build
+c. (Configure as a single-page app (rewrite all urls to /index.html)?) N
+d. (Set up automatic builds and deploys with GitHub?) N
+e. (File build/404.html already exists. Overwrite?) N
+f. (File build/index.html already exists. Overwrite?) N
 3. firebase deploy

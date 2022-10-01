@@ -13,7 +13,7 @@ Deploy your React js Application with firebase
 --- After cloning this Repo run the following command:
 1. firebase login
 2. firebase init
-This firebase init command will ask few questions.
+This firebase init command will ask few questions:
 a. (Which Firebase features do you want to set up for this directory), From the options, select the Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys
 b. (What do you want to use as your public directory?) build
 c. (Configure as a single-page app (rewrite all urls to /index.html)?) N
